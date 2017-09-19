@@ -1,5 +1,7 @@
 package com.utcc.sakdinan;
-
+/**
+*@auther Sakdinan 5907101013
+*/
 public class BubbleSortArray 
 {
 	private double [] element;
