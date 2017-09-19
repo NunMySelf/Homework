@@ -1,5 +1,7 @@
 package com.utcc.sakdinan;
-
+/**
+*@author Sakdinan 5907101013
+*/
 public class InsectionSort {
 
 	private int [ ] element;
