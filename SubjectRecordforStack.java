@@ -1,3 +1,6 @@
+/**
+*@auther Sakdinan 5907101013
+*/
 package stack.subjectrec.utcc;
 
 public class SubjectRecordforStack 
